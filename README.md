@@ -31,7 +31,7 @@ This project analysed transactional data from 2021 to 2024 to uncover actionable
 
 The SQL Queries used to analyze and aggregate the data for this project can be found [here](https://github.com/SalamiEritosin/Supermart-Project/tree/main/queries)
 
-Database script (https://tinyurl.com/39vxvhpp)
+Database script [here](https://github.com/SalamiEritosin/Supermart-Project/tree/main/data)
 
 ---
 
