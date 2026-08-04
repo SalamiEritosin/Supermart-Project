@@ -174,13 +174,13 @@ Database script [here](https://github.com/SalamiEritosin/Supermart-Project/tree/
 ## 7. Author
 
 **[Eritosin Salami]**
-[Data Analyst]
+<br>
+  [Data Analyst]
 
 - 🔗 [www.linkedin.com/in/eritosin-salami]
-- 💼 [https://github.com/EritosinSalami]
-- 📧 [salamieritosinlearn@gmail.com]
+- 💼 [https://github.com/SalamiEritosin]
+- 📧 [salamieritokede@gmail.com]
 
 ---
 
-*Last updated: [June 2026]*
-# Supermart-Project
+*Last updated: [Aug. 2026]*
