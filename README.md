@@ -29,7 +29,7 @@ categories and is staffed by 35 employees organised into three tiers: Regional M
 As a Data Analyst, I have been tasked with querying the sales database to generate insights on revenue performance, employee effectiveness, customer behaviour, and inventory.
 This project analysed transactional data from 2021 to 2024 to uncover actionable insights.
 
-The SQL Queries used to analyze and aggregate the data for this project can be found here: (https://tinyurl.com/yc7fzb8h)
+The SQL Queries used to analyze and aggregate the data for this project can be found [here](https://github.com/SalamiEritosin/Supermart-Project/tree/main/queries)
 
 Database script (https://tinyurl.com/39vxvhpp)
 
